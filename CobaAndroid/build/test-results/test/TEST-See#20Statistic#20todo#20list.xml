@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="See Statistic todo list" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-30T07:19:13" hostname="LAPTOP-8ROAKM94" time="3.722">
+  <properties/>
+  <testcase name="User is on to do list page" classname="See Statistic todo list" time="0.256"/>
+  <testcase name="User click on Navigate button" classname="See Statistic todo list" time="0.469"/>
+  <testcase name="User see menu of Navigate button" classname="See Statistic todo list" time="0.986"/>
+  <testcase name="User click on Statistics" classname="See Statistic todo list" time="0.297"/>
+  <testcase name="User see Statistic view" classname="See Statistic todo list" time="1.283"/>
+  <testcase name="classMethod" classname="See Statistic todo list" time="17.595"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Apr 30, 2020 2:19:13 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
